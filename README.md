@@ -1,4 +1,3 @@
-Sure, here's a more concise and complete TypeScript cheat sheet in Markdown format, covering all major topics with brief explanations and short examples:
 
 ```markdown
 # TypeScript Cheat Sheet
@@ -273,5 +272,3 @@ class Greeter {
      }
      ```
 ```
-
-This cheat sheet covers all major TypeScript concepts, provides concise examples, and includes key interview questions and answers for quick reference. You can copy and paste this into a `.md` file for your use.
